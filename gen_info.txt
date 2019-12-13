@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Nov 11 14:04:47 2019
+
+@author: hema Darshini 
+"""
+
+
+- check the user login 
+    - check on username 
+    - check on the server the current user
+    - change the user name
+    - check if server is correct
+    
